@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiVamsidharGowdK
 - 👀 I’m BIG Data Engineer 
-- 🌱 I’m skilled professional in Pyspark,Hadoop.
+- 🌱 I’m skilled professional in Pyspark,Hadoop,Kafka.
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 Developing Projects on my Own to eardicate cyber Frauds
 - 😄 Using Snowflake,Redshift Dateware House
