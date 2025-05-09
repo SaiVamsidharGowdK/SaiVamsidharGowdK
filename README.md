@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiVamsidharGowdK
-- 👀 I’m SnowFlake Data Engineer 
+- 👀 I’m BIG Data Engineer 
 - 🌱 I’m skilled professional in snowpark 
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 Developing Projects on my Own to eardicate cyber Frauds
